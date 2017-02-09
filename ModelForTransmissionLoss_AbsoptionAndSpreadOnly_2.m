@@ -80,3 +80,4 @@ semilogy(Nm,abs(SLplot),'--r')
 xlabel('Distance (Nautical Miles)');
 ylabel('Signal Power (dB)');
 title('Source Level and Transmission Loss vs. Distance');
+% Edited
